@@ -1,0 +1,10 @@
+{
+    "staging": {
+        "post": "https://fusion.staging.paygoenergy.io/api/v1/assembly-events",
+        "get": "https://fusion.staging.paygoenergy.io/api/v1/assembly-parts/"
+    },
+    "production": {
+        "post": "https://fusion.paygoenergy.io/api/v1/assembly-events",
+        "get": "https://fusion.paygoenergy.io/api/v1/assembly-parts/"
+    }
+  }
